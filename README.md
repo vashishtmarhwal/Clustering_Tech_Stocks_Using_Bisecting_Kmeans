@@ -9,7 +9,7 @@ Amro Lolooh:
 Ross Giagkoudis: 40031093
 Matthew Alquisada-Mansoori: 40064122
 
-#Project Summary
+<h3>Project Summary</h3>
 
 <h4>Motivation</h4>
 
