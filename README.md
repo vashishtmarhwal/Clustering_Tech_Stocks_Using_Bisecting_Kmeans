@@ -1,5 +1,5 @@
 # SOEN_471_Project_Team_3
-#Big Data Analytics
+<h2>Big Data Analytics</h2>
 Stock Market Analysis of the Tech Industry during the Pandemic
 
 #Team Members:
