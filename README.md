@@ -27,7 +27,7 @@ Since we don’t have the ground truth labels, we will use Silhouette Coefficien
 
 <h4>Data gathering and Libraries used</h4>
 
-A large stock market price dataset will be used showing historic prices across the desired timeframe. The Dataset is “Huge Stock Market Dataset”[1] from Kaggle. Additionally, an API by a startup company Alpaca[2] will allow us to fetch prices of stock. Certain parameters will be analyzed depending on the nature of the filtered companies, that can include but are not limited to: number of users, engagement, financial activity. 
+A large stock market price dataset will be used showing historic prices across the desired timeframe. The Dataset is “Huge Stock Market Dataset”[1] from Kaggle. Additionally, an API by a startup company Alpaca[2] will allow us to fetch prices, volume and market cap of stocks. Certain parameters will be analyzed depending on the nature of the filtered companies, that can include but are not limited to: number of users, engagement, financial activity. 
 The libraries that we will be using are Numpy, Pandas, Seaborn, Sci-Kit Learn and Apache Spark.
 
 <h4>References</h4>
