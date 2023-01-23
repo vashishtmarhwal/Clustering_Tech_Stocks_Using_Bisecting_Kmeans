@@ -1,13 +1,9 @@
-# SOEN_471_Project_Team_3
 <h2>Big Data Analytics</h2>
 Stock Market Analysis of the Tech Industry during the Pandemic
 
-#Team Members:
+## Authors
 
-Vashisht Marhwal: 40158888
-Amro Lolooh: 
-Ross Giagkoudis: 40031093
-Matthew Alquisada-Mansoori: 40064122
+- [@vashishtmarhwal](https://www.github.com/vashishtmarhwal)
 
 <h3>Project Summary</h3>
 
@@ -17,9 +13,9 @@ With the rise of Covid-19 affecting the global economy, companies are faced with
 
 <h4>Algorithm</h4>
 
-The algorithms used in this project are twofold: The first part of the project includes analyzing a stock market dataset to find companies that qualify as having “good financial performance“ during the span of the past 2 years. This will be done with K-means clustering. Various factors such as stock prices, etc. will be used to filter out the good performers. This is an unsupervised learning technique since no target labels are present.Our clusters will be based on the performance in the last couple of years.. 
-
-After that, multiple performance metrics and parameters are analyzed to find common patterns that will signify what are the determinant factors that result in good performance. For this, Hierarchical clustering will be used here.This would allow us to find data similarities in our performance cluster from Step 1.
+- The algorithms used in this project are twofold: The first part of the project includes analyzing a stock market dataset to find companies that qualify as having “good financial performance“ during the span of the past 2 years. 
+- This will be done with K-means clustering. Various factors such as stock prices, etc. will be used to filter out the good performers. This is an unsupervised learning technique since no target labels are present.Our clusters will be based on the performance in the last couple of years.
+- After that, multiple performance metrics and parameters are analyzed to find common patterns that will signify what are the determinant factors that result in good performance. For this, Hierarchical clustering will be used here.This would allow us to find data similarities in our performance cluster from Step 1.
 
 <h4>Evaluation Metrics</h4>
 
